@@ -89,6 +89,7 @@ SELECT
        transaction_time,
        transaction_qty,
        store_id,
+       store_location,
        unit_price,
        product_category,
        product_type,
